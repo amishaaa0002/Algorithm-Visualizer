@@ -1,7 +1,7 @@
 # Algorithm Visualizer
 Algorithm Visualizer is a web-based tool that allows you to interactively explore various algorithms, including sorting algorithms and Binary Search Tree (BST) operations. With this project, you can gain a deeper understanding of how these algorithms work by visualizing their step-by-step execution.
 
-![Algorithm Visualizer Banner](![Screenshot (112)](https://github.com/amishaaa0002/Algorithm-Visualizer/assets/107358756/94a4d448-8e91-45d1-a85e-9a772963a61f)
+(![Screenshot (112)](https://github.com/amishaaa0002/Algorithm-Visualizer/assets/107358756/94a4d448-8e91-45d1-a85e-9a772963a61f)
 ) ![Screenshot (116)](https://github.com/amishaaa0002/Algorithm-Visualizer/assets/107358756/7f5c9975-9c71-45be-9da3-320b06a3d6f8)
 ![Screenshot (115)](https://github.com/amishaaa0002/Algorithm-Visualizer/assets/107358756/c8d540fb-b56a-4c4d-bd11-8f08017b73ff)
 <!-- Replace with your project's banner image -->
